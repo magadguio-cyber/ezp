@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'com.ezp.injector'
     compileSdk 34
     defaultConfig {
         applicationId "com.ezp.injector"
